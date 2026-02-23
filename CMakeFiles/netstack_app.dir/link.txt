@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/netstack_app.dir/src/log.c.o CMakeFiles/netstack_app.dir/test/log_test.c.o -o netstack_app 

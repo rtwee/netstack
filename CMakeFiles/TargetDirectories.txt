@@ -1,0 +1,3 @@
+/home/cs/net/CMakeFiles/netstack_app.dir
+/home/cs/net/CMakeFiles/edit_cache.dir
+/home/cs/net/CMakeFiles/rebuild_cache.dir
